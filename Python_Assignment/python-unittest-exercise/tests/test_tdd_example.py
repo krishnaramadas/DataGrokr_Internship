@@ -1,5 +1,4 @@
 from src.tdd_example import TDDExample
-
 tdd_example_instance = TDDExample()
 
 def test_reverse_string():
