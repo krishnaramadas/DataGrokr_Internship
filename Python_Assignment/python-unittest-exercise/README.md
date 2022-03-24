@@ -1,7 +1,6 @@
 # python-unittest-exercise
 
 
-
 ## Getting started
 
 Install `virtualenv` using `pip`
