@@ -2,7 +2,6 @@
 import unittest
 from unittest.mock import *
 from src.general_example import GeneralExample
-
 #Initializing class object
 ge = GeneralExample()
 
