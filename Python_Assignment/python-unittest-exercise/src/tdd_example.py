@@ -1,7 +1,6 @@
 class TDDExample():
     def __init__(self):
         pass
-
     def reverse_string(self, input_str: str):
         """
         Reverses order of characters in string input_str.
