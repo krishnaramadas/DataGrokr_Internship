@@ -1,6 +1,5 @@
 import time
 from typing import Dict, List
-
     
 class GeneralExample():
     def flatten_dictionary(self,content: Dict):
